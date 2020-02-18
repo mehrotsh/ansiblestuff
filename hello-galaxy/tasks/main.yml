@@ -1,0 +1,4 @@
+- name: Testing ansible galaxy install
+  shell:
+   cmd: echo "{{ name }}"
+
